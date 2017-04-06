@@ -1,0 +1,5 @@
+com\pages\project\security\LoginPage.class
+com\pages\project\security\DDoSConfigurationPage.class
+com\pages\project\security\DDoSMitigationPage.class
+com\pages\project\security\AddAccountPage.class
+com\pages\project\security\AdministrationPage.class
